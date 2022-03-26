@@ -1,4 +1,11 @@
-.container{
-    background-image: url(https://lumiere-a.akamaihd.net/v1/images/image_4f447b1d.jpeg);
+.containerHeader{
+    background: url(../assets/images/image_4f447b1d.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 520px;
+    filter: contrast(-50);
     
 }

@@ -1,0 +1,84 @@
+.containerCard{
+    position: relative;
+    top: 250px;
+}
+
+.containerCard h1{
+    font-size: 14px;
+    color: white;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.containerCard h1 img{
+    width: 15px;
+}
+
+.containerCard .movieTitle{
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 700;
+}
+
+
+.containerCard .atributos{ 
+    text-align: center;
+}
+
+.containerCard .atributos li{
+    display: inline-block;
+    color: white;
+    margin-right: 10px;
+}
+
+.containerCard .atributos li div{
+    width: 5px;
+    height: 5px;
+    position: relative;
+    top: 7px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.containerCard .atributos li div p{
+    opacity: 0;
+}
+
+.boton1{
+    display: inline-block;
+}
+
+.boton2{
+    display: inline-block;
+}
+
+.boton2 p{
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+}
+
+.boton3{
+    display: inline-block;
+    position: absolute;
+    left: 290px;
+}
+
+.boton1 img{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.boton2 img{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.boton3 img{
+    width: 25px;
+    height: 25px;
+}
