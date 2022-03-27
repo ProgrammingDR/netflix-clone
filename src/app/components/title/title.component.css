@@ -1,6 +1,11 @@
 .containerCard{
     position: relative;
-    top: 250px;
+    top: 300px;
+    background: rgb(7,8,8);
+    background: linear-gradient(0deg, rgba(7,8,8,1) 49%, rgba(5,6,6,0.7415730337078652) 73%, rgba(3,4,4,0.6565008025682183) 87%, rgba(0,0,0,0) 100%); 
+    width: 100%;
+    height: 120px;
+    padding-top: 20px;
 }
 
 .containerCard h1{
@@ -25,6 +30,7 @@
 
 .containerCard .atributos{ 
     text-align: center;
+    font-size: 12px;
 }
 
 .containerCard .atributos li{
@@ -50,7 +56,12 @@
     display: inline-block;
     color: white;
     position: relative;
-    left: 40px;
+    left: 45px;
+    font-size: 12px;
+}
+
+.boton1:hover{
+    cursor: pointer;
 }
 
 
@@ -61,8 +72,8 @@
     padding: 5px 10px;
     border-radius: 5px;
     position: relative;
-    left: 80px;
-    bottom: 10px;
+    left: 85px;
+    bottom: 5px;
 }
 
 .boton2:hover{
@@ -75,6 +86,7 @@
     margin-left: 10px;
     position: relative;
     bottom: 5px;
+    font-size: 12px;
 }
 
 .boton3{
@@ -82,6 +94,10 @@
     color: white;
     position: relative;
     left: 110px;
+    font-size: 12px;
+}
+.boton3:hover{
+    cursor: pointer;
 }
 
 .boton1 img{
