@@ -1,5 +1,7 @@
 # NetflixClone
 
+[![Portafolio-17.png](https://i.postimg.cc/6qrdr0tC/Portafolio-17.png)](https://postimg.cc/y3NgB0JN)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
